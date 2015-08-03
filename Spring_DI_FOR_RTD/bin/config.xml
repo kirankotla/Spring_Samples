@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<bean class="com.app.Address" name="addrobj">
+		<property name="hno" value="3-28" />
+		<property name="state" value="India" />
+	</bean>
+	<bean class="com.app.Pincode" name="pinobj"> 
+	 <property name="pin" value="3-22131"/>
+	 <property name="state" value="Telangana"></property>
+	</bean>
+	<bean class="com.app.Employe" name="empobj">
+	
+	<property name="empId" >
+	<value>101</value>
+	</property>
+	<property name="empName" value="kiran"/> 
+	<property name="addr" ref="addrobj"></property>
+	<property name="pin1" >
+	<ref bean="pinobj"/>
+	</property>
+	</bean>
+	
+	</beans>
+      
+      

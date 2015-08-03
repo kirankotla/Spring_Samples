@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/com.springsource.bsh-2.0.0.b4 - Copy.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/com.springsource.bsh-2.0.0.b4.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/com.springsource.com.caucho-3.2.1 - Copy.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/com.springsource.com.caucho-3.2.1.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/com.springsource.com.ibatis-2.3.4.726 - Copy.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/com.springsource.com.ibatis-2.3.4.726.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/com.springsource.com.mchange.v2.c3p0-0.9.1.2 - Copy.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/com.springsource.com.mchange.v2.c3p0-0.9.1.2.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/com.springsource.commonj-1.1.0 - Copy.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/com.springsource.commonj-1.1.0.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/com.springsource.edu.emory.mathcs.backport-3.0.0 - Copy.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/com.springsource.edu.emory.mathcs.backport-3.0.0.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/com.springsource.javax.inject-1.0.0.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/com.springsource.javax.jdo-2.1.0 - Copy.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/com.springsource.javax.jdo-2.1.0.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/com.springsource.net.sf.cglib-2.2.0 - Copy.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/com.springsource.net.sf.cglib-2.2.0.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/com.springsource.org.aopalliance-1.0.0 - Copy.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/com.springsource.org.aopalliance-1.0.0.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/com.springsource.org.apache.commons.fileupload-1.2.0.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/com.springsource.org.apache.commons.httpclient-3.1.0.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/com.springsource.org.apache.commons.lang-2.4.0 - Copy.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/com.springsource.org.apache.commons.lang-2.4.0.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/com.springsource.org.apache.commons.logging-1.1.1 - Copy.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/com.springsource.org.apache.commons.logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/com.springsource.org.apache.commons.pool-1.5.3 - Copy.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/com.springsource.org.apache.commons.pool-1.5.3.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/com.springsource.org.apache.log4j-1.2.15 - Copy.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/com.springsource.org.apache.log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/com.springsource.org.apache.taglibs.standard-1.1.2.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/com.springsource.org.aspectj.weaver-1.6.8.RELEASE - Copy.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/com.springsource.org.codehaus.groovy-1.6.5 - Copy.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/com.springsource.org.codehaus.groovy-1.6.5.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/com.springsource.org.codehaus.jackson.mapper-1.0.0.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/com.springsource.org.jruby-1.4.0 - Copy.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/com.springsource.org.jruby-1.4.0.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/com.springsource.org.junit-4.7.0.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/com.springsource.org.quartz-1.6.2 - Copy.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/com.springsource.org.quartz-1.6.2.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/com.springsource.org.testng-5.10.0.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/commons-dbcp - Copy.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/commons-dbcp.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/easymock.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/jamon-2.7 - Copy.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/jamon-2.7.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/jmxremote - Copy.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/jmxremote.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/jmxremote_optional - Copy.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/jmxremote_optional.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/jmxri - Copy.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/jmxri.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/jmxtools-1.2.1 - Copy.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/jmxtools-1.2.1.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/jotm - Copy.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/jotm.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/org.springframework.aop-3.0.1.RELEASE-A - Copy.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/org.springframework.aop-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/org.springframework.asm-3.0.1.RELEASE-A - Copy.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/org.springframework.asm-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/org.springframework.aspects-3.0.1.RELEASE-A - Copy.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/org.springframework.aspects-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/org.springframework.beans-3.0.1.RELEASE-A - Copy.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/org.springframework.beans-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/org.springframework.config.java-1.0.0.M4 - Copy.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/org.springframework.config.java-1.0.0.M4.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/org.springframework.context.support-3.0.1.RELEASE-A - Copy.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/org.springframework.context.support-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/org.springframework.context-3.0.1.RELEASE-A - Copy.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/org.springframework.context-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/org.springframework.core-3.0.1.RELEASE-A - Copy.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/org.springframework.core-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/org.springframework.expression-3.0.1.RELEASE-A - Copy.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/org.springframework.expression-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/org.springframework.instrument.tomcat-3.0.1.RELEASE-A - Copy.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/org.springframework.instrument.tomcat-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/org.springframework.instrument-3.0.1.RELEASE-A - Copy.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/org.springframework.instrument-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/org.springframework.jdbc-3.0.1.RELEASE-A - Copy.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/org.springframework.jdbc-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/org.springframework.jms-3.0.1.RELEASE-A - Copy.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/org.springframework.jms-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/org.springframework.orm-3.0.1.RELEASE-A - Copy.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/org.springframework.orm-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/org.springframework.oxm-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/org.springframework.test-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/org.springframework.transaction-3.0.1.RELEASE-A - Copy.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/org.springframework.transaction-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/org.springframework.web.portlet-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/org.springframework.web.servlet-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/org.springframework.web.struts-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/org.springframework.web-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/persistence - Copy.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/persistence.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/spring-javaconfig - Copy.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/spring-javaconfig.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/wstx-asl-3.2.7.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/xapool - Copy.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/xapool.jar"/>
+	<classpathentry kind="lib" path="I:/Kiran/Spring/springjars/Spring jars_all/xmlunit-1.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
